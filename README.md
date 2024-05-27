@@ -5,5 +5,8 @@
 - [Easy Setup to Manage Python Dependencies Effectively](https://ricktech.medium.com/easy-setup-to-manage-python-dependencies-effectively-f146fd9bd8d9?sk=e97c14195106f020b5aba8a01b55e514)
 - [Use and Manage Jupyter Notebooks in your Python Project](https://medium.com/@ricktech/python-workflows-use-and-manage-jupyter-notebooks-in-your-python-project-edec5939c3ac?sk=29e7ef8089ee2eeaff9cce8e98e510b5)
 
+### Algorithms and Data structure
+- [Binary Search: Do it right with ease](https://ricktech.medium.com/binary-search-do-it-right-with-ease-4a3bb1c87680?sk=da9c4e918a4321f285ab27417ad05cb0)
+
 ### Hardware
 - [DIY a Low Cost, Low Energy Consumption Raspberry-Pi Cluster](https://medium.com/@ricktech/diy-a-low-cost-low-energy-consumption-raspberry-pi-cluster-b5ea34a9e754?sk=b4d50266b12911a28e9bc57b518778af)
